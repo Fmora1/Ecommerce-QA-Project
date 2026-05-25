@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+
+# PyCharm
+.idea/
+
+# Reports
+Reports/
+report.html
+
+# Screenshots
+screenshots/
+Automation/screenshots/
+
+# Database
+*.db
+
+# Drivers
+chromedriver.exe
+Automation/drivers/
+
+# OS files
+.DS_Store
